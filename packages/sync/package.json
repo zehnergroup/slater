@@ -28,7 +28,7 @@
     "parse-gitignore": "^1.0.1",
     "recursive-readdir": "^2.2.2",
     "w2t": "0.0.2",
-    "yaml": "^1.2.1",
+    "yaml": "^2.2.2",
     "zip-folder": "^1.0.0"
   },
   "gitHead": "3efcf640b15bfcbecbba4b4181a6826efa9b6f7e"
